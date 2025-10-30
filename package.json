@@ -5,8 +5,10 @@
   "author": "heshengtao",
   "systemPrompt": "你是一个智能助手",
   "repository": "https://github.com/heshengtao/sap-example",
+  "backupRepository": "https://gitee.com/heshengtao/sap-example",
   "category": "Example"
 }
+
 
 
 
